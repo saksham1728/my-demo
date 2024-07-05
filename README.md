@@ -1,2 +1,2 @@
 # my-demo
-my demo repositary is being made
+my demo repositary is being made.
